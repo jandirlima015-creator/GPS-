@@ -1,0 +1,6 @@
+{
+  "name": "PassoGPS",
+  "description": "Contador de passos avançado e rastreador com GPS social em tempo real com amigos e placar de caminhadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
